@@ -17,7 +17,7 @@
 - Beautifulsoup 4
 
 ## My role in the team
-- PM(Project Manager) : I managed this project plan to meet a deadline ou professor suggested.
+- PM(Project Manager) : I managed this project plan to meet a deadline our professor suggested.
 - Application Design, Rough map Crawling, Code Integration 
 
 ## Overview

@@ -2,12 +2,28 @@
 
 
 ## Index
+- Technical Stack
+- My role in the team
+- Overview
 - Tree Diagram
 - Design and Configuration
 - Code Review
 - Preview
 
+## Technical Stack
+- Pyqt5
+- python
+- Selenium
+- Beautifulsoup 4
 
+## My role in the team
+- PM(Project Manager) : I managed this project plan to meet a deadline ou professor suggested.
+- Application Design, Rough map Crawling, Code Integration 
+
+## Overview
+- This was a college semester project when I was a sophomore. At the time I didn't know how to make a software at all. So I tried to learn making desktop application from youtube and I worked on this project with my team members.
+- We made this application to see all the information related to our college conveniently. So Most codes are about crawling web pages.
+- At the time when I was working on this project, I had no idea about github...
 
 ## Tree Diagram
 

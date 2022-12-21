@@ -27,7 +27,7 @@ https://github.com/shinjuno123/IAMYOURAPP/blob/master/main.py
 
 ## My role in the team
 - PM(Project Manager) : I managed this project plan to meet a deadline our professor suggested.
-- Application Design, Rough map Crawling, Code Integration 
+- Application Design, Rough map image Crawling, Code Integration 
 
 ## Overview
 - This was a college semester project when I was a sophomore. At the time I didn't know how to make a software at all. So I tried to learn making desktop application from youtube and I worked on this project with my team members.

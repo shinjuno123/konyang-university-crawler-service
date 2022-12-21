@@ -3,6 +3,7 @@
 https://github.com/shinjuno123/IAMYOURAPP/blob/master/main.py
 
 ## Index
+- Contributors
 - Technical Stack
 - My role in the team
 - Overview
@@ -10,6 +11,13 @@ https://github.com/shinjuno123/IAMYOURAPP/blob/master/main.py
 - Design and Configuration
 - Code Review
 - Preview
+
+## Contributors
+- Junho Shin(me)
+- Hyunsuk Sung
+- Kwonho Jeong
+- Wooyung Won
+- Taeksang Kwon
 
 ## Technical Stack
 - Pyqt5
